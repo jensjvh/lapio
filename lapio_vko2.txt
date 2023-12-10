@@ -1,2 +1,3 @@
 uusi muutos... toinen muutos...
 tämä rivi lisättiin github.comissa
+paikallisesti tehty uusi rivi
